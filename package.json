@@ -1,0 +1,30 @@
+{
+  "name": "react-hooks",
+  "version": "1.0.0",
+  "description": "React Hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chesteralan/react-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "author": "Alchie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chesteralan/react-hooks/issues"
+  },
+  "homepage": "https://github.com/chesteralan/react-hooks#readme",
+  "devDependencies": {
+    "react": "^18.3.1",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "usehooks-ts": "^3.1.0"
+  }
+}
